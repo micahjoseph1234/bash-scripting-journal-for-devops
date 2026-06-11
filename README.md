@@ -1,0 +1,1 @@
+# bash-scripting-journal-for-devops
