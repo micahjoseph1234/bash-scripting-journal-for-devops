@@ -1,4 +1,4 @@
-# Day 5 - Linux & Bash Scripting for DevOps
+# Linux & Bash Scripting for DevOps
 
 ## Overview
 
